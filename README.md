@@ -1,6 +1,6 @@
-### Hi there, I'm Kian! <em> he/him </em>
+### Hi there, I'm Kian!
 
-🇵🇭 • 🇨🇦
+🌎 🇵🇭 • 🇨🇦
 
 📚 UBC BSc '27
 
