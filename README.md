@@ -37,5 +37,9 @@
             <img src=https://img.shields.io/badge/Full_Stack:-414141?style=flat>
             <img src=https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white>
         </td>
+        <td>
+            <img src=https://img.shields.io/badge/GameDev:-414141?style=flat>
+            <img src=https://img.shields.io/badge/unreal%20engine-%23313131.svg?logo=unrealengine&logoColor=white>
+        </td>
     </tr>
 </table>
